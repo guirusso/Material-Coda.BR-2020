@@ -1,7 +1,8 @@
 ### [CEPESP 2020] - Coda 2020
 # Como baixar dados dos candidatos 
 
-setwd("/Users/guilhermerusso/Downloads")
+# O diretório aqui, por exemplo:
+# setwd("/Users/guilhermerusso/Downloads")
 
 # Dados- TSE 2020
 download.file("http://agencia.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2020.zip",
